@@ -4,7 +4,7 @@
 *- Frank Herbert, Dune*
 
 [
-![](https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/frostiful/assets/try_frostiful.svg)
+![](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/frostiful/assets/try_frostiful.svg)
 ](https://legacy.curseforge.com/minecraft/mc-mods/frostiful "Want something a little cooler? Try Frostiful!")
 
 # Features

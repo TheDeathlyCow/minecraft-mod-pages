@@ -1,8 +1,8 @@
 # Thermoo - Temperature and Environment API
 
-[![](https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/frostiful/assets/try_frostiful.svg)](https://modrinth.com/mod/frostiful)
+[![](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/frostiful/assets/try_frostiful.svg)](https://modrinth.com/mod/frostiful)
 
-[![](https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/try_scorchful.svg)](https://modrinth.com/mod/scorchful)
+[![](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/try_scorchful.svg)](https://modrinth.com/mod/scorchful)
 
 Thermoo is a temperature and environment library mod for Minecraft, targeting the Fabric and Quilt ecosystems. It is meant to help provide compatibility between mods and datapacks that use temperature as a core mechanic, such as Frostiful or Scorchful. Using this mod on its own will have no gameplay or visual effects. It is designed to be used by Mods written in both Java and Kotlin, as well as Datapacks through Commands and other registries.
 

@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://modrinth.com/mod/frostiful">
-<img src="https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/frostiful/assets/try_frostiful.svg" alt="Want something a little cooler? Try Frostiful!"/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/frostiful/assets/try_frostiful.svg" alt="Want something a little cooler? Try Frostiful!"/>
 </a>
 
 </center>
