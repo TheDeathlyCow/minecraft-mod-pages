@@ -1,6 +1,6 @@
 <center>
 
-<img src="https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/banner.png" alt="Scorchful banner showing a Sandstorm and a Crimson Lily side by side"/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/banner.png" alt="Scorchful banner showing a Sandstorm and a Crimson Lily side by side"/>
 
 <i>"Survival is the ability to swim in strange water."</i><br/>
 <i>- Frank Herbert, Dune</i>
@@ -19,7 +19,7 @@
 
 ## Keeping Wet and Staying Cool
 
-<img src="https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/oasis.png" alt="A player wearing a Sun Hat and turtle armor drinking from a water skin."/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/oasis.png" alt="A player wearing a Sun Hat and turtle armor drinking from a water skin."/>
 <center>
   A player wearing a Sun Hat and Turtle Armor drinking from a water skin.
 </center>
@@ -31,7 +31,7 @@ Overcome the heat by **Staying Wet**. You can go for a dip in the pond or river,
 
 ## Enhanced Nether Survival
 
-<img src="https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/warped_farm.png" alt="A Piglin protecting its patch of Warped Lillies."/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/warped_farm.png" alt="A Piglin protecting its patch of Warped Lillies."/>
 <center>
   A Piglin protecting its patch of Warped Lillies.
 </center>
@@ -43,7 +43,7 @@ The Nether is an extreme environment that brings many new perils. It is hotter t
 
 ## Sandstorms
 
-<img src="https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/sandstorm.png" alt="A Sandstorm envelopes a dead tree in the Desert."/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/sandstorm.png" alt="A Sandstorm envelopes a dead tree in the Desert."/>
 <center>
   A Sandstorm envelopes a dead tree in the Desert.
 </center>
@@ -53,7 +53,7 @@ The Nether is an extreme environment that brings many new perils. It is hotter t
 
 ## Combat and Future Plans
 
-<img src="https://raw.githubusercontent.com/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/wastes.png" alt="A Crimson Lily growing in the hostile Nether Wastes."/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/wastes.png" alt="A Crimson Lily growing in the hostile Nether Wastes."/>
 <center>
   A Crimson Lily growing in the hostile Nether Wastes.
 </center>
