@@ -99,6 +99,6 @@ This mod uses [Fabric API](https://modrinth.com/mod/fabric-api), [Thermoo](https
 
 # Questions?
 
-Most everything in this mod is documented on the [wiki](https://github.com/TheDeathlyCow/scorchful/wiki), but feel free to [join my Discord](https://discord.gg/aqASuWebRU) and ask any questions about the mod you might have!
+Most everything in this mod is documented on the [wiki](https://github.com/TheDeathlyCow/scorchful/wiki), but feel free to [join my Discord](https://discord.thedeathlycow.com) and ask any questions about the mod you might have!
 
 Scorchful is a Fabric mod written for modern versions of Minecraft. There are currently no plans to port to NeoForge. Only the latest version of the mod will be supported. Scorchful may work on NeoForge with [Sinytra Connector](https://modrinth.com/mod/connector), however, this is not supported. Support for Quilt will be provided.
