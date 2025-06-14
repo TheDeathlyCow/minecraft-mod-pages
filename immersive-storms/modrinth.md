@@ -22,6 +22,12 @@ Fog is now whiter during snowy weather, and will get thicker during thunder stor
 
 # Foggy Swamps
 
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/swamp.jpg" alt="Swamp fog during a rain storm"/>
+<center>
+A thick Fog now envelopes Swamps during rainy weather. This fog is as thick as the thickest sandstorms, but in all rainy weather, not just thunderstorms. This also applies in Pale Gardens, a much requested feature from the community.
+</center>
+
+
 # Ambient Wind
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aG76E-dT49g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
