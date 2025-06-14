@@ -12,14 +12,23 @@ Deserts, Badlands, and Savannas are now affected by Sandstorms. When it rains in
 </center>
 <br/>
 
-# Blizzards
+# Snowy Fog
 
-Fog is now darker and whiter during snow storms, and will get thicker during thunder storms, signalling a blizzard. While not as harsh as sandstorms, blizzards do still reduce visibility. 
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/blizzard.jpg" alt="Blizzard fog in a Snowy Taiga"/>
+<center>
+Fog is now whiter during snowy weather, and will get thicker during thunder storms, signalling a blizzard. While not as harsh as sandstorms, blizzards do still reduce visibility. 
+</center>
+<br/>
+
+# Foggy Swamps
 
 # Ambient Wind
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG76E-dT49g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
 Windswept hills and mountains have been made more windy in all weather conditions. A soft breeze will now carry bits of dust and rock with them. Deserts and badlands have been given this effect too (though the sound is a vanilla thing).
+</center>
+<br/>
 
 # Compatibility
 
