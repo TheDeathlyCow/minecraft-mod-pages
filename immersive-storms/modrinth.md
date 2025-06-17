@@ -42,3 +42,9 @@ Windswept hills and mountains have been made more windy in all weather condition
 * **Particle Rain**: This mod is also compatible with Particle Rain. Sandstorm particles and sounds will be automatically disabled if Particle Rain is detected.
 * **Shader Packs**: The fog effects of this mod likely do not, and will not ever, work with most shaders packs as they have separate handling for fog. However, the particle and sound effects should work just fine.
 * **Neoforge (Connector)**: This mod may work with Neoforge via Sinytra connector on versions where it is available; but this will neither be tested for nor supported.
+
+# Help and Support
+
+You can report any bugs or issues you find to: [https://github.com/theDeathlyCow/immersive-storms/issues](https://github.com/theDeathlyCow/immersive-storms/issues)
+
+You can also get technical support in my Discord at [https://discord.thedeathlycow.com](https://discord.thedeathlycow.com)
