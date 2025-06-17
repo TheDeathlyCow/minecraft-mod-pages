@@ -1,12 +1,12 @@
 # Immersive Storms
 
-[![](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/try_scorchful.svg)](https://modrinth.com/mod/scorchful)
+[![](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/try_scorchful.svg)](https://www.curseforge.com/mod/scorchful)
 
 A small client-side mod that adds subtle and immersive fog and particle effects to various biomes, based on the weather.
 
 # Sandstorms
 
-<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/sandstorm.jpg" alt="A Sandstorm blowing in across the Desert"/>
+![A Sandstorm blowing in across the Desert](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/sandstorm.jpg)
 
 Deserts, Badlands, and Savannas are now affected by Sandstorms. When it rains in the world, a dense sandy fog will close in and a fierce wind will kick up new dust particles. When thunderstorms roll in, this fog will get even thicker, making it very difficult to see where you are going.
 
@@ -14,7 +14,7 @@ Deserts, Badlands, and Savannas are now affected by Sandstorms. When it rains in
 
 # Snowy Fog
 
-<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/blizzard.jpg" alt="Blizzard fog in a Snowy Taiga"/>
+![Blizzard fog in a Snowy Taiga](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/blizzard.jpg)
 
 Fog is now whiter during snowy weather, and will get thicker during thunder storms, signalling a blizzard. While not as harsh as sandstorms, blizzards do still reduce visibility. 
 
@@ -22,14 +22,15 @@ Fog is now whiter during snowy weather, and will get thicker during thunder stor
 
 # Foggy Swamps
 
-<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/swamp.jpg" alt="Swamp fog during a rain storm"/>
+![Swamp fog during a rain storm](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/swamp.jpg)
 
 A thick Fog now envelopes Swamps during rainy weather. This fog is as thick as the thickest sandstorms, but in all rainy weather, not just thunderstorms. This also applies in Pale Gardens, a much requested feature from the community.
 
 
 # Ambient Wind
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG76E-dT49g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![](https://img.youtube.com/vi/aG76E-dT49g/0.jpg)](https://www.youtube.com/watch?v=aG76E-dT49g)
 
 Windswept hills and mountains have been made more windy in all weather conditions. A soft breeze will now carry bits of dust and rock with them. Deserts and badlands have been given this effect too (though the sound is a vanilla thing).
 
