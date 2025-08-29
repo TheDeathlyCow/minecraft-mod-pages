@@ -18,6 +18,7 @@ Thermoo provides a number of useful features for developers of temperature mods 
 * Integration with Seasons mods
 * Powerful commands
 * Extensive customizability for your own mods
+* Can run Server-side only with [Polymer](https://modrinth.com/mod/polymer)
 
 Thermoo has an extensive developer wiki on GitHub, available [here](https://thermoo.thedeathlycow.com/). If you have trouble with something, feel free to ask in my [Discord](https://discord.thedeathlycow.com).
 
