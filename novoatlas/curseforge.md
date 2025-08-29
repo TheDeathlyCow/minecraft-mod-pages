@@ -40,4 +40,4 @@ If you're having trouble with the mod, you can join [my Discord](https://discord
 
 # Looking for 1.19 or 1.20? 
 
-Check out the [original Atlas mod](https://www.modrinth.com/mod/atlas/) by itsmiir (Fabric only). This mod will not be backported to 1.19 or 1.20.
+I do not have time or capacity to develop new features or fix issues for old versions myself; any backports of the mod will only be supported by community contribution. If you want a feature or fix backported, please submit a PR on GitHub (or create a fork). You can also get 1.19 and 1.20.1 versions of the [original Atlas mod](https://www.modrinth.com/mod/atlas/) by itsmiir (Fabric only).
