@@ -4,7 +4,7 @@
 
 [![](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/try_scorchful.svg)](https://modrinth.com/mod/scorchful)
 
-Thermoo is a temperature and environment library mod for Minecraft, targeting the Fabric and Quilt ecosystems. It is meant to help provide compatibility between mods and datapacks that use temperature as a core mechanic, such as Frostiful or Scorchful. Using this mod on its own will have no gameplay or visual effects. It is designed to be used by Mods written in both Java and Kotlin, as well as Datapacks through Commands and other registries.
+Thermoo is a temperature and environment library mod for Minecraft. It is meant to help provide compatibility between mods and datapacks that use temperature as a core mechanic, such as Frostiful or Scorchful. Using this mod on its own will have no gameplay or visual effects. It is designed to be used by Mods written in both Java and Kotlin, as well as Datapacks through Commands and other registries.
 
 # Developer Features and Wiki
 
@@ -18,7 +18,7 @@ Thermoo provides a number of useful features for developers of temperature mods 
 * Integration with Seasons mods
 * Powerful commands
 * Extensive customizability for your own mods
-* Can run Server-side only with [Polymer](https://modrinth.com/mod/polymer)
+* Can run Server-side only with [Polymer](https://modrinth.com/mod/polymer) (Fabric only)
 
 Thermoo has an extensive developer wiki on GitHub, available [here](https://thermoo.thedeathlycow.com/). If you have trouble with something, feel free to ask in my [Discord](https://discord.thedeathlycow.com).
 
@@ -32,5 +32,5 @@ Thermoo is the core of my other mods, [Frostiful](https://modrinth.com/mod/frost
 
 # License and Porting
 
-Thermoo is licensed under LGPLv3. It is a mod developed for the Fabric and Quilt mod loaders on modern versions of Minecraft. Older versions will only be supported according to the [LTS Policy](https://github.com/TheDeathlyCow/thermoo?tab=readme-ov-file#lts-policy). I have no plans to port to other loaders such as NeoForge or Bukkit.
+Thermoo is licensed under LGPL-3.0. It is a mod developed primarily for the Fabric and Quilt mod loaders, with limited Neoforge support. Old versions of Minecraft will only be supported according to the [LTS Policy](https://thermoo.thedeathlycow.com/#lts-policy). I have no plans to port to other loaders such as LexForge or Bukkit.
 
