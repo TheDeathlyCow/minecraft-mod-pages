@@ -6,25 +6,31 @@ A small client-side mod that adds subtle and immersive fog and particle effects 
 
 # Sandstorms
 
-<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/sandstorm.jpg" alt="A Sandstorm blowing in across the Desert"/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/sandstorm.jpg" alt="Before and after of the sandstorm effect in a Badlands"/>
 
 Deserts, Badlands, and Savannas are now affected by Sandstorms. When it rains in the world, a dense sandy fog will close in and a fierce wind will kick up new dust particles. When thunderstorms roll in, this fog will get even thicker, making it very difficult to see where you are going.
 
 <br/>
 
-# Snowy Fog
+# Blizzards
 
-<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/blizzard.jpg" alt="Blizzard fog in a Snowy Taiga"/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/blizzard.jpg" alt="Before and after of blizzards in a Snowy Taiga"/>
 
-Fog is now whiter during snowy weather, and will get thicker during thunder storms, signalling a blizzard. While not as harsh as sandstorms, blizzards do still reduce visibility. 
+Blizzards will now envelop snowy biomes during thundering weather, with a dense snowy fog and fierce wind.
 
 <br/>
 
-# Foggy Swamps
+# Pale Gardens
 
-<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/swamp.jpg" alt="Swamp fog during a rain storm"/>
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/pale_garden.jpg" alt="Before and after of a Pale Garden during a rain storm"/>
 
-A thick Fog now envelopes Swamps during rainy weather. This fog is as thick as the thickest sandstorms, but in all rainy weather, not just thunderstorms. This also applies in Pale Gardens, a much requested feature from the community.
+Rain in now Pale Gardens now brings extremely dense fog, a much requested community feature. The color-desaturating nature of this biome now also applies to the rain, making it black and devoid of all colour.
+
+# Spooky Fog
+
+<img src="https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/immersive-storms/assets/swamp.jpg" alt="Before and after of a Swamp fog during a rain storm"/>
+
+A thick Fog now envelopes Swamps and Dark Forests during rainy weather, similar to the Pale Garden except without the blackend rain.
 
 
 # Ambient Wind
