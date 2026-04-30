@@ -92,7 +92,7 @@ This mod uses [Fabric API](https://modrinth.com/mod/fabric-api), [Thermoo](https
 
 # Additional Credits
 
-Thanks to everyone who has contributed to Frostiful, no matter how big or small! See the [Credits](https://github.com/TheDeathlyCow/frostiful/blob/main/CREDITS.md) for the full list of contributors.
+Thanks to everyone who has contributed to Frostiful, no matter how big or small! See the [Credits](https://github.com/TheDeathlyCow/frostiful/blob/HEAD/CREDITS.md) for the full list of contributors.
 
 ## Contributors
 
