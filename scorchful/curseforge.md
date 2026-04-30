@@ -28,35 +28,28 @@ Overcome the heat by **Staying Wet**. You can go for a dip in the pond or river,
 
 The Nether is an extreme environment that brings many new perils. It is hotter than even the warmest places of the Overworld, which means water cannot remain in its liquid form so easily there. To stay cool, you will need to carry your own water with you to drink, or you can make use of the **Nether Lillies** found in the Crimson Forest, Warped Forest, and occasionally the Nether Wastes.
 
-**Crimson Lillies** evolved in the harsh conditions of The Nether to have large root systems that can absorb the scant moisture from the surrounding Netherrack. They collect and use this moisture as a weapon against many of the Fire-born monsters of The Nether that might threaten it. While this may be an effective defense against many of the native inhabitants of The Nether, it is quite useful to us! Step on the Crimson Lillies for a quick soak, or harvest the water of the more tame **Warped Lillies** for long-distance Nether traversal.
+**Crimson Lillies** evolved in the harsh conditions of The Nether to have large root systems that can absorb the scant moisture from the surrounding Netherrack. They collect and use this moisture as a weapon against many of the Fire-born monsters of The Nether that might threaten it. While this may be an effective defense against many of the native inhabitants of The Nether, it is quite useful to us! Step on the Crimson Lillies for a quick soak, or harvest the water of the more tame **Warped Lillies** for long-term Nether survival.
 
 ## Sandstorms
 
-![A Sandstorm envelopes a dead tree in the Desert.](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/sandstorm.png)
-*A Sandstorm envelopes a dead tree in the Desert.*
+![A Sandstorm begins in the Desert.](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/sandstorm.png)
+*A Sandstorm begins in the Desert.*
 
-**Sandstorms** now form in Deserts and Badlands during weather events. When this happens, a thick sand fog will envelop the player, reducing their visibility but also blocking the heat of the Sun. This is not just a visual effect though. During sandstorms, **Sand Piles** will begin to accumulate and exposed Cauldrons will also fill with sand, creating **Renewable Sand**.
+**Sandstorms** now form in Deserts and Badlands during weather events. When this happens, a thick sand fog will envelop the player, reducing their visibility but also blocking the heat of the Sun. This is not just a visual effect though. During sandstorms, mobs will be slowed, and **Breezes** will spawn. **Sand Piles** will also begin to accumulate and exposed Cauldrons will also fill with sand, allowing for **Renewable Sand**.
 
-## Combat and Future Plans
-
-![A Crimson Lily growing in the hostile Nether Wastes.](https://media.githubusercontent.com/media/TheDeathlyCow/minecraft-mod-pages/main/scorchful/assets/wastes.png)
-*A Crimson Lily growing in the hostile Nether Wastes.*
-
-This first release of Scorchful focuses primarily on the Survival aspects of the mod. However, there are still some light combat elements. Setting mobs and players on fire is another way to warm them up very quickly - making extinguishing the fire very important! Splash Potions will also wet players, allowing for another quick way of soaking yourself in combat.
-
-The next update for the mod will feature **The Mirage**, a hostile Desert Wraith that is attracted to heat. You can follow along with and give feedback on The Mirage's development [here](https://github.com/theDeathlyCow/scorchful/discussions/20).
+Not a fan of survival? No problem! The visual and audio effects of sandstorms can be downloaded as an entirely separate, standalone client-side mod in [Immersive Storms](https://www.curseforge.com/minecraft/mc-mods/immersive-storms)!
 
 # Permissions
 
-Scorchful is licensed under LGPLv3. You can use this mod in mod packs, YouTube videos, or anything else. However, I do ask that you do not redistribute it without my explicit permission and a link back to the original CurseForge, Modrinth, and GitHub pages.
+Scorchful is licensed under LGPL-3.0. You can use this mod in mod packs, YouTube videos, or anything else. You may copy, modify, and redistribute this mod provided you abide by the terms set forth in the license.
 
 # Configuration
 
-Scorchful is extremely highly configurable. It has an extensive config that lets you play around with different settings, disable features, or tweak the values of various things to adjust the difficulty of the mod. For example, if you're not all that into survival, but still wanna try out Sandstorms or have heat effects from Fire, you can completely disable passive heating! It also has a fair amount of datapack integrations with data-driven temperature effects and tags for things like Heat Resistance on armor and water from food and drink.
+Scorchful is extremely highly configurable. It has an extensive config that lets you play around with different settings, disable features, or tweak the values of various things to adjust the difficulty of the mod. For example, you can tweak how much heating you get from fire, or disable the ability to throw fire charges. It also has a fair amount of datapack integrations with data-driven temperature effects and tags for things like Heat Resistance on armor and water from food and drink.
 
 # Wiki
 
-Scorchful has a comprehensive player and developer wiki available at https://modded.wiki/w/Mod:Scorchful. Thanks to Patbox for hosting this!
+Scorchful has a comprehensive player and developer wiki available at https://modded.wiki/w/Scorchful. Thanks to Patbox for hosting this!
 
 # Mod Integrations
 
@@ -65,6 +58,7 @@ Scorchful is designed to work alongside [Frostiful](https://modrinth.com/mod/fro
 
 * [Frostiful](https://modrinth.com/mod/frostiful): Scorchful has native support for Frostiful, and both mods are designed to work alongside each other. I highly recommend using both!
 * [Dehydration](https://modrinth.com/mod/dehydration): If Dehydration is enabled, Scorchful will automatically disable the built-in thirst system and use Dehydration's instead.
+* [Nature's Spirit](https://modrinth.com/mod/natures-spirit): Pink Sand Piles and Pink Cauldrons will replace Sand Piles and Sand Cauldrons in Pink Sand biomes.
 * [Colorful Hearts](https://modrinth.com/mod/colorful-hearts) & [Overflowing Bars](https://modrinth.com/mod/overflowing-bars): When using [Thermoo Patches](https://modrinth.com/mod/thermoo-patches), burning Hearts will render on top of the new hearts from these mods. However, engulfed hearts currently do not work.
 * [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions): A description is provided for the Rehydration enchantment for Armor.
 * [Trinkets](https://modrinth.com/mod/trinkets): The Sun Hat can be worn in the Hat slot, and provides the same benefits as when equipped in the regular head slot.
@@ -73,7 +67,7 @@ Scorchful is designed to work alongside [Frostiful](https://modrinth.com/mod/fro
 
 ### Compatibility
 
-While this mod is designed to be as compatible as possible with other mods, sometimes issues will inevitably arise. Specific incompatibilities will be documented here and on the [wiki](https://github.com/TheDeathlyCow/scorchful/wiki#compatibility) as they become known.
+While this mod is designed to be as compatible as possible with other mods, sometimes issues will inevitably arise. Specific incompatibilities will be documented here and on the [wiki](https://modded.wiki/w/Scorchful#Compatibility) as they become known.
 
 * [Tough as Nails](https://modrinth.com/mod/tough-as-nails) -- Incompatible due to multiple temperature bars and no integration for its thirst mechanic. No real point in using these mods together anyway when Frostiful exists!
 * [PyroFrost](https://modrinth.com/mod/pyrofrost) -- PyroFrost has a temperature system different from Scorchful/Thermoo, so you will have 2 temperature bars.
@@ -83,15 +77,11 @@ While this mod is designed to be as compatible as possible with other mods, some
 
 # Requirements
 
-This mod uses [Fabric API](https://modrinth.com/mod/fabric-api), [Thermoo](https://modrinth.com/mod/thermoo), [Mod Menu](https://modrinth.com/mod/modmenu), and [Cloth Config](https://modrinth.com/mod/cloth-config). For Quilt users: replace Fabric API with the [Quilt Standard Libraries](https://modrinth.com/mod/qsl).
+This mod uses [Fabric API](https://modrinth.com/mod/fabric-api), [Thermoo](https://modrinth.com/mod/thermoo), [Mod Menu](https://modrinth.com/mod/modmenu), and [YACL](https://modrinth.com/mod/yacl). For Quilt users: replace Fabric API with the [Quilt Standard Libraries](https://modrinth.com/mod/qsl). Some older versions of Scorchful use [Cloth Config](https://modrinth.com/mod/cloth-config) instead - be sure to check the dependencies for the version you're downloading.
 
 [
 ![](https://i.imgur.com/Ol1Tcf8.png "Requires Fabric API badge")
 ](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-
-[
-![](https://i.imgur.com/I0y2xcw.png "Requires Cloth Config API badge")
-](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 
 [
 ![](https://i.imgur.com/MjlOmH0.png "Requires Thermoo badge")
@@ -99,6 +89,6 @@ This mod uses [Fabric API](https://modrinth.com/mod/fabric-api), [Thermoo](https
 
 # Questions?
 
-Most everything in this mod is documented on the [wiki](https://github.com/TheDeathlyCow/scorchful/wiki), but feel free to [join my Discord](https://discord.thedeathlycow.com) and ask any questions about the mod you might have!
+Most everything in this mod is documented on the [wiki](https://modded.wiki/w/Scorchful), but feel free to [join my Discord](https://discord.thedeathlycow.com) and ask any questions about the mod you might have!
 
 Scorchful is a Fabric mod written for modern versions of Minecraft. There are currently no plans to port to NeoForge. Only the latest version of the mod will be supported. Scorchful may work on NeoForge with [Sinytra Connector](https://modrinth.com/mod/connector), however, this is not supported. Support for Quilt will be provided.
