@@ -152,4 +152,4 @@ Most everything in this mod is documented on the [wiki](https://modded.wiki/w/Fr
 
 <br/>
 
-Frostiful is a Fabric mod written for modern versions of Minecraft. There are currently no plans to port to NeoForge. Frostiful may work on NeoForge with [Sinytra Connector](https://modrinth.com/mod/connector), however this is not supported. Support for Quilt will be provided.
+Frostiful's Neoforge port is very experimental. It is still in alpha, and therefore may contain bugs and cause crashes. The port has also been created in a 'Fabric-like' manner using Forgified Fabric API and custom entry points to minimize the changes needed from the original version, which means that it may not work very well with the Neoforge ecosystem. Proceed with mild caution and please feel free to report issues to the issue tracker. **Frostiful remains a Fabric-first mod and the Neoforge port is not likely to be updated to new Minecraft versions regularly.**
